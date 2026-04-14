@@ -14,10 +14,10 @@ To create a Power BI dashboard that segments customers based on purchasing behav
 ![Full Dashboard](<Screenshot 2026-04-14 172025.png>)
 
 **2. KPI Cards & Segments:**
-![KPI View](PASTE_IMAGE_2_PATH_HERE)
+![KPI View](<Screenshot 2026-04-14 180501.png>)
 
 **3. Cohort Retention Heatmap:**
-![Heatmap View](PASTE_IMAGE_3_PATH_HERE)
+![Heatmap View](<Screenshot 2026-04-14 180501.png>)
 
 ## 💡 Key Business Insights
 1. **Revenue Driver:** The 'High Value' segment makes up a small percentage of users but drives the majority of total revenue.
