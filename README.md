@@ -14,7 +14,7 @@ To create a Power BI dashboard that segments customers based on purchasing behav
 ![Full Dashboard](<Screenshot 2026-04-14 172025.png>)
 
 **2. KPI Cards & Segments:**
-![KPI View](<Screenshot 2026-04-14 180501.png>)
+![KPI View](<Screenshot 2026-04-14 180418.png>)
 
 **3. Cohort Retention Heatmap:**
 ![Heatmap View](<Screenshot 2026-04-14 180501.png>)
