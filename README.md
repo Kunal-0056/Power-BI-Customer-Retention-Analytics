@@ -11,7 +11,7 @@ To create a Power BI dashboard that segments customers based on purchasing behav
 ## 📸 Dashboard Preview
 
 **1. Full Dashboard View:**
-![Full Dashboard](Screenshot 2026-04-14 172025.png)
+![Full Dashboard](<Screenshot 2026-04-14 172025.png>)
 
 **2. KPI Cards & Segments:**
 ![KPI View](PASTE_IMAGE_2_PATH_HERE)
